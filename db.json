@@ -14,6 +14,11 @@
       "id": 3,
       "rating": 9,
       "text": "this is item 3 coming from backend"
+    },
+    {
+      "text": "kmfkmkbm;bgmm;gm;lmbg",
+      "rating": 9,
+      "id": 4
     }
   ]
 }
