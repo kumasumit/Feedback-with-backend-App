@@ -1,24 +1,14 @@
 {
   "feedback": [
     {
-      "id": 1,
+      "text": "This is a new file",
       "rating": 10,
-      "text": "this is item 1 coming from backend"
+      "id": 1
     },
     {
-      "id": 2,
-      "rating": 1,
-      "text": "this is item 2 coming from backend"
-    },
-    {
-      "id": 3,
-      "rating": 9,
-      "text": "this is item 3 coming from backend"
-    },
-    {
-      "text": "kmfkmkbm;bgmm;gm;lmbg",
-      "rating": 9,
-      "id": 4
+      "text": "thus us very best",
+      "rating": 8,
+      "id": 2
     }
   ]
 }
